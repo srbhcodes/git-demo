@@ -39,5 +39,4 @@ tmp/
 temp/
 
 # Training files (don't modify during practice)
-README.md
 TRAINING_STEPS.md
