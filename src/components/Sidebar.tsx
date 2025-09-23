@@ -3,7 +3,12 @@ import React from 'react';
 const Sidebar: React.FC = () => {
   return (
     <aside className="sidebar">
-      <div>Sidebar Component</div>
+      <div>Menu</div>
+      <ul>
+        <li>Home</li>
+        <li>About</li>
+        <li>Contact</li>
+      </ul>
     </aside>
   );
 };
