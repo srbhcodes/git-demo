@@ -3,7 +3,9 @@
 const Header: React.FC = () => {
   return (
     <header className="header">
-      <div>Welcome to our company</div>
+
+      <div>"About Our Business, Welcome to our company</div>
+
     <nav>
   <a href="/">Home</a> | <a href="/about">About</a>
 </nav>
