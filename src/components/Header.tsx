@@ -1,11 +1,11 @@
-<div>My Company Name</div>import React from 'react';
+<div>Acme Corp</div>import React from 'react';
 
 const Header: React.FC = () => {
   return (
     <header className="header">
-      <div>My Company Name</div>
+      <div>Acme Corp</div>
     <nav>
-  <a href="/">Home</a> | <a href="/about">About</a>
+  <a href="/">Home</a> | <a href="/about">About</a> | <a href="/services">Services</a>
 </nav>
     </header>
   );
