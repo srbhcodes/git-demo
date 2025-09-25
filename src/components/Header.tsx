@@ -11,6 +11,9 @@ const Header: React.FC = () => {
     <nav>
   <a href="/">Home</a> | <a href="/about">About</a>
 </nav>
+      <div>My Company Name
+      </div>
+      
     </header>
   );
 };
